@@ -1,0 +1,1 @@
+Creo el archivo kk2.txt directamente en GitHub con el Visual Studio Code

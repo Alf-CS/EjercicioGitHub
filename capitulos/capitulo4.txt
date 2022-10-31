@@ -1,1 +1,4 @@
 En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto.
+
+a. Narebski, Jakub. Mastering Git.
+b. Tsitoara, Mariot. Beginning Git and Github.
